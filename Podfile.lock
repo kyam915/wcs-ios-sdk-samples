@@ -1,0 +1,15 @@
+PODS:
+  - JSONModel (1.7.0)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - JSONModel
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 65daadef41b77b095a2462422270ad5a19ee316e
+
+COCOAPODS: 1.2.0
